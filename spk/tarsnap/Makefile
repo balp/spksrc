@@ -1,5 +1,5 @@
 SPK_NAME = tarsnap
-SPK_VERS = 1.0.35
+SPK_VERS = 1.0.37
 SPK_REV = 1
 SPK_ICON = src/header.png
 

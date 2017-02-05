@@ -1,5 +1,5 @@
 PKG_NAME = tarsnap
-PKG_VERS = 1.0.35
+PKG_VERS = 1.0.37
 PKG_EXT = tgz
 PKG_DIST_NAME = $(PKG_NAME)-autoconf-$(PKG_VERS).$(PKG_EXT)
 PKG_DIST_SITE = https://www.tarsnap.com/download
